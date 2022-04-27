@@ -1,0 +1,12 @@
+ body{
+        background: -webkit-linear-gradient(left, rgb(15, 189, 15) 2%, yellowgreen 10%, yellow 50%,
+                         rgb(247, 181, 59) 70%,pink 90%);
+      }
+        .img img{
+            height:250px;
+            rotate: -10deg;
+        }
+        .img{
+            margin: 55px 25% 0 25%;
+            /* background-color: red; */
+        }
